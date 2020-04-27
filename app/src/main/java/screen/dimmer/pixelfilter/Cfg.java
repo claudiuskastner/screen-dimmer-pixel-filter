@@ -1,6 +1,5 @@
 package screen.dimmer.pixelfilter;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.util.Log;
 

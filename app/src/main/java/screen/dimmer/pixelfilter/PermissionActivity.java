@@ -1,16 +1,11 @@
 package screen.dimmer.pixelfilter;
 
-import android.Manifest;
 import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.Handler;
 import android.util.Log;
 import android.view.View;
-import android.widget.Toast;
 
 public class PermissionActivity extends Activity {
     public static final String LOG = "Pixel Filter"; //NON-NLS
